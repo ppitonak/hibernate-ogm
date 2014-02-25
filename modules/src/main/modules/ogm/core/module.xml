@@ -30,6 +30,7 @@
     <dependencies>
         <module name="org.hibernate" export="true" />
         <module name="org.hibernate.commons-annotations" />
+        <module name="org.hibernate.hql" export="true" />
         <module name="org.slf4j" />
 
         <module name="javax.api" />
